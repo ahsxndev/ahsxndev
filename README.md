@@ -1,3 +1,5 @@
+<!-- GitHub Profile README for Ahsan Zaman -->
+
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"> I'm Ahsan Zaman
 
 <div align="center">
@@ -9,9 +11,9 @@
   <img src="https://img.shields.io/github/followers/ahsxndev?label=Followers&style=flat-square&color=00d9ff&labelColor=1a1a1a" alt="GitHub Followers" />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahsxndev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" alt="GitHub Stats" />
-</div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
 
 ---
 
