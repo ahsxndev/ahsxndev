@@ -189,7 +189,7 @@ If you find my projects helpful or want to support my open-source contributions:
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0d1117,100:1a1a1a&animation=twinkling&fontColor=ffffff" />
 </div>
 
 <div align="center">
