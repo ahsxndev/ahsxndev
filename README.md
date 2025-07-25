@@ -168,7 +168,7 @@ graph LR
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://linkedin.com/in/ahxanzaman)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a1a)](https://instagram.com/_ahsanzaman)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=1a1a1a)](https://medium.com/@ahsxn)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:ahsan@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:ahsanzaman.dev@gmail.com)
 
 </div>
 
