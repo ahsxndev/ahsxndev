@@ -1,85 +1,195 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Ahsan Zaman</h1>
-<h3 align="center">🚀 Passionate Flutter Developer from Pakistan</h3>
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"> I'm Ahsan Zaman
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Flutter+Developer;UI%2FUX+Designer;Firebase+Specialist;Clean+Code+Advocate" alt="Typing SVG" />
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahsxndev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ahsxndev&label=Profile%20Views&color=00d9ff&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ahsxndev?label=Followers&style=flat-square&color=00d9ff&labelColor=1a1a1a" alt="GitHub Followers" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ahsxndev&theme=flat&no-bg=true&margin-w=5" alt="Trophies" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahsxndev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" alt="GitHub Stats" />
+</div>
+
+---
+
+## 🧠 About Me
+
+> *"Crafting pixel-perfect experiences with clean architecture and blazing performance."*
+
+I'm a **Flutter Developer** and **UI/UX Designer** passionate about creating elegant, high-performance mobile applications. I specialize in transforming complex ideas into intuitive user experiences, leveraging Firebase for robust backend solutions.
+
+**Core Philosophy:**
+- 🎯 **User-Centric Design** — Every interaction should feel natural and delightful
+- ⚡ **Performance First** — Optimize for speed without compromising functionality  
+- 🏗️ **Clean Architecture** — Scalable, maintainable, and testable code
+- 🔄 **Continuous Learning** — Stay ahead of the curve with emerging technologies
+
+---
+
+## 🛠️ Technical Expertise
+
+<div align="center">
+
+### **Primary Stack**
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio&theme=dark" />
+
+### **Design & Development Tools**
+<img src="https://skillicons.dev/icons?i=figma,photoshop,postman,git,github&theme=dark" />
+
+### **Additional Technologies**
+<img src="https://skillicons.dev/icons?i=sqlite,html,css,python,csharp,cpp&theme=dark" />
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsxndev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ahsxndev&theme=dark&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=c9d1d9" />
+</div>
+
+---
+
+## 🌟 Current Focus
+
+<div align="center">
+
+<table>
+  <tr>
+    <td><strong>📖 Learning</strong></td>
+    <td>
+      <ul>
+        <li>Advanced Flutter Animations (Rive & Lottie)</li>
+        <li>State Management with Riverpod</li>
+        <li>3D Widgets & Custom Painters</li>
+        <li>Microinteractions & Motion Design</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>📈 Building</strong></td>
+    <td>
+      <ul>
+        <li>Personal Developer Portfolio App</li>
+        <li>Open Source Flutter UI Components</li>
+        <li>Firebase + Supabase Integration</li>
+        <li>Dark Theme Component Library</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🚀 Goals</strong></td>
+    <td>
+      <ul>
+        <li>Contribute to Flutter Community</li>
+        <li>Launch SaaS Mobile Application</li>
+        <li>Mentor Upcoming Developers</li>
+        <li>Write Technical Articles</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/ahsxndev/quran-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahsxndev&repo=quran-app&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/ahsxn_dev" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/ahsxn_dev?logo=twitter&style=for-the-badge" alt="Twitter" />
+  &nbsp;
+  <a href="https://github.com/ahsxndev/flutter-chat-ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahsxndev&repo=flutter-chat-ai&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" />
   </a>
-</p>
+</div>
 
 ---
 
-### 💬 About Me
+## 💡 Development Insights
 
-- 🔭 I’m currently working on **Flutter apps**
-- 💬 Ask me about **Flutter, Dart, Firebase**
-- 📫 Reach me at: **ahsanzaman.dev@gmail.com**
-- ⚡ Fun Fact: *Humor level → off the charts 😄*
+<details>
+<summary><b>🔧 My Development Process</b></summary>
 
----
+```mermaid
+graph LR
+    A[Research] --> B[Design]
+    B --> C[Prototype]
+    C --> D[Develop]
+    D --> E[Test]
+    E --> F[Deploy]
+    F --> G[Iterate]
+    G --> A
+```
 
-### 🌐 Connect with Me
+1. **Research** — Understand user needs and market gaps
+2. **Design** — Wireframes, UI mockups, and animations
+3. **Prototype** — Validate with real user feedback
+4. **Develop** — Clean, modular, and testable code
+5. **Test** — Manual + automated cross-device testing
+6. **Deploy** — Use CI/CD for smooth rollouts
+7. **Iterate** — Keep improving with feedback and data
 
-<p align="center">
-  <a href="https://twitter.com/ahsxn_dev" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/ahxanzaman" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://instagram.com/_ahsanzaman" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://medium.com/@ahsxn" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
-</p>
+</details>
 
----
+<details>
+<summary><b>🎨 Design Philosophy</b></summary>
 
-### 🛠️ Languages & Tools
+- **Minimalism** — Less clutter, more focus
+- **Consistency** — Cohesive design system
+- **Accessibility** — Everyone deserves a great experience
+- **Performance** — Design with speed in mind
+- **Emotion** — Let design feel human and engaging
 
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-</p>
+</details>
 
 ---
 
-### ❤️ Support Me
+## 📈 Contribution Activity
 
-<p align="center">
-  <a href="https://www.patreon.com/c/ahsxn" target="_blank">
-    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon" height="60"/>
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahsxndev&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=c9d1d9" />
+</div>
 
 ---
 
-### 📊 GitHub Stats
+## 🌐 Connect & Collaborate
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahsxndev&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahsxndev&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1a1a1a)](https://twitter.com/ahsxn_dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://linkedin.com/in/ahxanzaman)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a1a)](https://instagram.com/_ahsanzaman)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=1a1a1a)](https://medium.com/@ahsxn)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:ahsan@example.com)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsxndev" alt="GitHub Streak" />
-</p>
+</div>
+
+---
+
+## ☕ Support My Work
+
+<div align="center">
+
+If you find my projects helpful or want to support my open-source contributions:
+
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white&labelColor=1a1a1a)](https://www.patreon.com/c/ahsxn)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=twinkling&fontColor=ffffff" />
+</div>
+
+<div align="center">
+  <i>⭐ Star my repositories if you find them useful!</i>
+</div>
