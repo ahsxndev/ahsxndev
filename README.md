@@ -15,7 +15,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&quoteColor=FFD700&authorColor=FFFFFF&backgroundColor=000000&symbolColor=FFD700" alt="Dev Quote" />
 </p>
 
-
 ---
 
 ## 🧠 About Me
@@ -192,4 +191,3 @@ If you find my projects helpful or want to support my open-source contributions:
 <div align="center">
   <i>⭐ Star my repositories if you find them useful!</i>
 </div>
-```
