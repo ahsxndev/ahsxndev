@@ -1,6 +1,6 @@
 <!-- GitHub Profile README for Ahsan Zaman -->
 
-# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"> I'm Ahsan Zaman
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> I'm Ahsan Zaman
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Flutter+Developer;UI%2FUX+Designer;Firebase+Specialist;Clean+Code+Advocate" alt="Typing SVG" />
